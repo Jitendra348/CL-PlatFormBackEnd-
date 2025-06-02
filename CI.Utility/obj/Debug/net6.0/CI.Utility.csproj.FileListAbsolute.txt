@@ -1,0 +1,53 @@
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CI.Utility\bin\Debug\net6.0\CI.Utility.deps.json
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CI.Utility\bin\Debug\net6.0\CI.Utility.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CI.Utility\bin\Debug\net6.0\ref\CI.Utility.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CI.Utility\bin\Debug\net6.0\CI.Utility.pdb
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CI.Utility\obj\Debug\net6.0\CI.Utility.csproj.AssemblyReference.cache
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CI.Utility\obj\Debug\net6.0\CI.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CI.Utility\obj\Debug\net6.0\CI.Utility.AssemblyInfoInputs.cache
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CI.Utility\obj\Debug\net6.0\CI.Utility.AssemblyInfo.cs
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CI.Utility\obj\Debug\net6.0\CI.Utility.csproj.CoreCompileInputs.cache
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CI.Utility\obj\Debug\net6.0\CI.Utility.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CI.Utility\obj\Debug\net6.0\ref\CI.Utility.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CI.Utility\obj\Debug\net6.0\CI.Utility.pdb
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CI.Utility\bin\Debug\net6.0\CI.Models.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CI.Utility\bin\Debug\net6.0\CI.Models.pdb
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CI.Utility\obj\Debug\net6.0\CI.Utility.csproj.CopyComplete
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\bin\Debug\net6.0\CI.Utility.deps.json
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\bin\Debug\net6.0\CI.Utility.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\bin\Debug\net6.0\ref\CI.Utility.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\bin\Debug\net6.0\CI.Utility.pdb
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\bin\Debug\net6.0\CI.Models.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\bin\Debug\net6.0\CI.Models.pdb
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\obj\Debug\net6.0\CI.Utility.csproj.AssemblyReference.cache
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\obj\Debug\net6.0\CI.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\obj\Debug\net6.0\CI.Utility.AssemblyInfoInputs.cache
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\obj\Debug\net6.0\CI.Utility.AssemblyInfo.cs
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\obj\Debug\net6.0\CI.Utility.csproj.CoreCompileInputs.cache
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\obj\Debug\net6.0\CI.Utility.csproj.CopyComplete
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\obj\Debug\net6.0\CI.Utility.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\obj\Debug\net6.0\ref\CI.Utility.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\obj\Debug\net6.0\CI.Utility.pdb
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\bin\Debug\net6.0\CI.Utility.runtimeconfig.json
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\obj\Debug\net6.0\CI.Utility.genruntimeconfig.cache
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\bin\Debug\net6.0\CI.Data.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.Utility\bin\Debug\net6.0\CI.Data.pdb
+G:\CL Platform\CIWebAPI-main\CI.Utility\bin\Debug\net6.0\CI.Utility.deps.json
+G:\CL Platform\CIWebAPI-main\CI.Utility\bin\Debug\net6.0\CI.Utility.runtimeconfig.json
+G:\CL Platform\CIWebAPI-main\CI.Utility\bin\Debug\net6.0\CI.Utility.dll
+G:\CL Platform\CIWebAPI-main\CI.Utility\bin\Debug\net6.0\CI.Utility.pdb
+G:\CL Platform\CIWebAPI-main\CI.Utility\bin\Debug\net6.0\CI.Data.dll
+G:\CL Platform\CIWebAPI-main\CI.Utility\bin\Debug\net6.0\CI.Models.dll
+G:\CL Platform\CIWebAPI-main\CI.Utility\bin\Debug\net6.0\CI.Data.pdb
+G:\CL Platform\CIWebAPI-main\CI.Utility\bin\Debug\net6.0\CI.Models.pdb
+G:\CL Platform\CIWebAPI-main\CI.Utility\obj\Debug\net6.0\CI.Utility.csproj.AssemblyReference.cache
+G:\CL Platform\CIWebAPI-main\CI.Utility\obj\Debug\net6.0\CI.Utility.GeneratedMSBuildEditorConfig.editorconfig
+G:\CL Platform\CIWebAPI-main\CI.Utility\obj\Debug\net6.0\CI.Utility.AssemblyInfoInputs.cache
+G:\CL Platform\CIWebAPI-main\CI.Utility\obj\Debug\net6.0\CI.Utility.AssemblyInfo.cs
+G:\CL Platform\CIWebAPI-main\CI.Utility\obj\Debug\net6.0\CI.Utility.csproj.CoreCompileInputs.cache
+G:\CL Platform\CIWebAPI-main\CI.Utility\obj\Debug\net6.0\CI.Utility.csproj.CopyComplete
+G:\CL Platform\CIWebAPI-main\CI.Utility\obj\Debug\net6.0\CI.Utility.dll
+G:\CL Platform\CIWebAPI-main\CI.Utility\obj\Debug\net6.0\refint\CI.Utility.dll
+G:\CL Platform\CIWebAPI-main\CI.Utility\obj\Debug\net6.0\CI.Utility.pdb
+G:\CL Platform\CIWebAPI-main\CI.Utility\obj\Debug\net6.0\CI.Utility.genruntimeconfig.cache
+G:\CL Platform\CIWebAPI-main\CI.Utility\obj\Debug\net6.0\ref\CI.Utility.dll

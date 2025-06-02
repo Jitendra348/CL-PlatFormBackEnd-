@@ -1,0 +1,889 @@
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\appsettings.json
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CIWebAPI.exe
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CIWebAPI.deps.json
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CIWebAPI.runtimeconfig.json
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CIWebAPI.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ref\CIWebAPI.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CIWebAPI.pdb
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.csproj.AssemblyReference.cache
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.AssemblyInfoInputs.cache
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.AssemblyInfo.cs
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.csproj.CoreCompileInputs.cache
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\obj\Debug\net6.0\scopedcss\bundle\CIWebAPI.styles.css
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.csproj.CopyComplete
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\obj\Debug\net6.0\ref\CIWebAPI.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.pdb
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.genruntimeconfig.cache
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\MessagePack.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.Common.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CI.Data.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CI.Models.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CI.Data.pdb
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CI.Models.pdb
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CI.Utility.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CI.Utility.pdb
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Web.Mvc.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Web.Razor.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Web.Helpers.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Web.WebPages.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\MimeKit.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Dapper.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Nisha Chavda\Demo Projects\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\appsettings.json
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CIWebAPI.exe
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CIWebAPI.deps.json
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CIWebAPI.runtimeconfig.json
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CIWebAPI.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ref\CIWebAPI.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CIWebAPI.pdb
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Dapper.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\MessagePack.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Web.Mvc.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Web.Razor.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Web.Helpers.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Web.WebPages.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\MimeKit.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.Common.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CI.Data.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CI.Models.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CI.Utility.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CI.Data.pdb
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CI.Models.pdb
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CI.Utility.pdb
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.csproj.AssemblyReference.cache
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.AssemblyInfoInputs.cache
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.AssemblyInfo.cs
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.csproj.CoreCompileInputs.cache
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\obj\Debug\net6.0\scopedcss\bundle\CIWebAPI.styles.css
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.csproj.CopyComplete
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\obj\Debug\net6.0\ref\CIWebAPI.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.pdb
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\obj\Debug\net6.0\CIWebAPI.genruntimeconfig.cache
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CI.BusinessLogic.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CIWebAPI\bin\Debug\net6.0\CI.BusinessLogic.pdb
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\appsettings.Development.json
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\appsettings.json
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\CIWebAPI.exe
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\CIWebAPI.deps.json
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\CIWebAPI.runtimeconfig.json
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\CIWebAPI.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\CIWebAPI.pdb
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\AutoMapper.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Azure.Core.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Azure.Identity.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Dapper.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Humanizer.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\MessagePack.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\MessagePack.Annotations.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Web.Mvc.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Web.Razor.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Web.Helpers.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Web.WebPages.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.Build.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\MimeKit.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\NuGet.Common.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\NuGet.Configuration.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\NuGet.LibraryModel.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\NuGet.Packaging.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\NuGet.ProjectModel.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\NuGet.Protocol.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\NuGet.Versioning.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Composition.Convention.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Composition.Hosting.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Composition.Runtime.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Composition.TypedParts.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Memory.Data.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\CI.BusinessLogic.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\CI.Data.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\CI.Models.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\CI.Utility.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\CI.BusinessLogic.pdb
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\CI.Data.pdb
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\CI.Models.pdb
+G:\CL Platform\CIWebAPI-main\CIWebAPI\bin\Debug\net6.0\CI.Utility.pdb
+G:\CL Platform\CIWebAPI-main\CIWebAPI\obj\Debug\net6.0\CIWebAPI.csproj.AssemblyReference.cache
+G:\CL Platform\CIWebAPI-main\CIWebAPI\obj\Debug\net6.0\CIWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\CL Platform\CIWebAPI-main\CIWebAPI\obj\Debug\net6.0\CIWebAPI.AssemblyInfoInputs.cache
+G:\CL Platform\CIWebAPI-main\CIWebAPI\obj\Debug\net6.0\CIWebAPI.AssemblyInfo.cs
+G:\CL Platform\CIWebAPI-main\CIWebAPI\obj\Debug\net6.0\CIWebAPI.csproj.CoreCompileInputs.cache
+G:\CL Platform\CIWebAPI-main\CIWebAPI\obj\Debug\net6.0\CIWebAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\CL Platform\CIWebAPI-main\CIWebAPI\obj\Debug\net6.0\CIWebAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\CL Platform\CIWebAPI-main\CIWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+G:\CL Platform\CIWebAPI-main\CIWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+G:\CL Platform\CIWebAPI-main\CIWebAPI\obj\Debug\net6.0\scopedcss\bundle\CIWebAPI.styles.css
+G:\CL Platform\CIWebAPI-main\CIWebAPI\obj\Debug\net6.0\CIWebAPI.csproj.CopyComplete
+G:\CL Platform\CIWebAPI-main\CIWebAPI\obj\Debug\net6.0\CIWebAPI.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\obj\Debug\net6.0\refint\CIWebAPI.dll
+G:\CL Platform\CIWebAPI-main\CIWebAPI\obj\Debug\net6.0\CIWebAPI.pdb
+G:\CL Platform\CIWebAPI-main\CIWebAPI\obj\Debug\net6.0\CIWebAPI.genruntimeconfig.cache
+G:\CL Platform\CIWebAPI-main\CIWebAPI\obj\Debug\net6.0\ref\CIWebAPI.dll

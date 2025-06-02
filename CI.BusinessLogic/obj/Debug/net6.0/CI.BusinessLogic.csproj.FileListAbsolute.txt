@@ -1,0 +1,38 @@
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\obj\Debug\net6.0\CI.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\obj\Debug\net6.0\CI.BusinessLogic.AssemblyInfoInputs.cache
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\obj\Debug\net6.0\CI.BusinessLogic.AssemblyInfo.cs
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\obj\Debug\net6.0\CI.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\obj\Debug\net6.0\CI.BusinessLogic.csproj.AssemblyReference.cache
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\bin\Debug\net6.0\CI.BusinessLogic.deps.json
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\bin\Debug\net6.0\CI.BusinessLogic.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\bin\Debug\net6.0\ref\CI.BusinessLogic.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\bin\Debug\net6.0\CI.BusinessLogic.pdb
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\bin\Debug\net6.0\CI.Data.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\bin\Debug\net6.0\CI.Models.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\bin\Debug\net6.0\CI.Utility.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\bin\Debug\net6.0\CI.Data.pdb
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\bin\Debug\net6.0\CI.Models.pdb
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\bin\Debug\net6.0\CI.Utility.pdb
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\obj\Debug\net6.0\CI.BusinessLogic.csproj.CopyComplete
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\obj\Debug\net6.0\CI.BusinessLogic.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\obj\Debug\net6.0\ref\CI.BusinessLogic.dll
+D:\Nisha Chavda\Demo Projects\.NetCoreDemoWebAPI\CIWebAPI\CI.BusinessLogic\obj\Debug\net6.0\CI.BusinessLogic.pdb
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\bin\Debug\net6.0\CI.BusinessLogic.deps.json
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\bin\Debug\net6.0\CI.BusinessLogic.dll
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\bin\Debug\net6.0\CI.BusinessLogic.pdb
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\bin\Debug\net6.0\CI.Data.dll
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\bin\Debug\net6.0\CI.Models.dll
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\bin\Debug\net6.0\CI.Utility.dll
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\bin\Debug\net6.0\CI.Data.pdb
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\bin\Debug\net6.0\CI.Models.pdb
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\bin\Debug\net6.0\CI.Utility.pdb
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\obj\Debug\net6.0\CI.BusinessLogic.csproj.AssemblyReference.cache
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\obj\Debug\net6.0\CI.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\obj\Debug\net6.0\CI.BusinessLogic.AssemblyInfoInputs.cache
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\obj\Debug\net6.0\CI.BusinessLogic.AssemblyInfo.cs
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\obj\Debug\net6.0\CI.BusinessLogic.csproj.CoreCompileInputs.cache
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\obj\Debug\net6.0\CI.BusinessLogic.csproj.CopyComplete
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\obj\Debug\net6.0\CI.BusinessLogic.dll
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\obj\Debug\net6.0\refint\CI.BusinessLogic.dll
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\obj\Debug\net6.0\CI.BusinessLogic.pdb
+G:\CL Platform\CIWebAPI-main\CI.BusinessLogic\obj\Debug\net6.0\ref\CI.BusinessLogic.dll

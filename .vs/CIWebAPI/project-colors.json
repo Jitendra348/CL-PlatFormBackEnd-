@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3fcf8ee3-a2ad-4880-9ef7-4e8e86aea8af": {
+      "ProjectGuid": "3fcf8ee3-a2ad-4880-9ef7-4e8e86aea8af",
+      "DisplayName": "CIWebAPI",
+      "ColorIndex": 0
+    },
+    "5cb086a3-1d94-4bbb-a609-e392800bc9c3": {
+      "ProjectGuid": "5cb086a3-1d94-4bbb-a609-e392800bc9c3",
+      "DisplayName": "CI.Models",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e32ed400-a9ad-4c22-9686-4294b30a9c72": {
+      "ProjectGuid": "e32ed400-a9ad-4c22-9686-4294b30a9c72",
+      "DisplayName": "CI.Data",
+      "ColorIndex": 2
+    },
+    "c28a38da-9401-4aff-8f47-6dcf893488e1": {
+      "ProjectGuid": "c28a38da-9401-4aff-8f47-6dcf893488e1",
+      "DisplayName": "CI.Utility",
+      "ColorIndex": 3
+    },
+    "2919d5f3-cd97-4ca4-91c6-7b134393a6b0": {
+      "ProjectGuid": "2919d5f3-cd97-4ca4-91c6-7b134393a6b0",
+      "DisplayName": "CI.BusinessLogic",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
